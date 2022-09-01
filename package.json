@@ -1,0 +1,23 @@
+{
+  "name": "pw2-aula-github",
+  "version": "1.0.0",
+  "description": "Teste GitHub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuelcursino/pw2-aula-github.git"
+  },
+  "keywords": [
+    "GitHub",
+    "Teste"
+  ],
+  "author": "SAMUEL CURSINO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samuelcursino/pw2-aula-github/issues"
+  },
+  "homepage": "https://github.com/samuelcursino/pw2-aula-github#readme"
+}
